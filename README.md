@@ -2,7 +2,7 @@
 
 # About Juncture
 
-Juncture is a set of services and web components designed to work with GitHub and Markdown to easily create interactive web pages/sites.  
+**[Juncture](https://v3.juncture-digital.org)** is a set of services and web components designed to work with GitHub and Markdown to easily create interactive web pages/sites.  
 
 GitHub is a free web service that provides file and web hosting, Markdown file editing, and powerful tools for collaboration and workflow management.  Markdown is a simple markup language commonly used for formatting plain text.
 
@@ -19,8 +19,9 @@ Interactive features like [zoomto image region](zoomto/3312,261,1359,907) are pr
 Metadata is linked to the image provding owner attribution, licensing and reuse rights, descriptions, and other useful information.
 
 ##
+`.columns`
 
-**Juncture components**
+### Juncture components
 
 - Image and map viewers
 - Audio and video players
@@ -28,7 +29,7 @@ Metadata is linked to the image provding owner attribution, licensing and reuse 
 - IFrame for embedding external resources
 - More…
 
-**Juncture tools/ and services**
+### Juncture tools/ and services
 
 - Web editor with preview and drag-drop support for images and multimedia
 - IIIF image server with automatic IIIF image creation
@@ -137,6 +138,20 @@ The features include points (addresses and locations), line strings (streets, hi
 
 - [Monument Valley](https://juncture-digital.github.io/examples/monument-valley)
 - [Amalfi Coast](https://juncture-digital.github.io/examples/amalfi-coast)
+
+## FAQ
+
+1. **How much does it cost to use Juncture?**
+
+	Nothing for basic usage - GitHub accounts and hosting are free and Juncture is open source.
+	A nominal cost may be incurred to add a custom domain.  These can often be obtained for around $20/year.
+
+2. **What level of technical expertise is required to setup and run a Juncture site?**
+
+	Some familiarity with GitHub and Markdown is required to get started with a basic website.
+	More elaborate websites with interactive maps, entity popovers, and such may require some additional familiarity with GeoJSON, Wikidata, and other technologies
+
+	*Programming skills are not needed to setup and maintain a Juncture site.*
 
 # For more info...
 
