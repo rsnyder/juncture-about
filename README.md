@@ -1,6 +1,39 @@
 [![](https://v3.juncture-digital.org/badge.png)](https://v3.juncture-digital.org)
 
-# Juncture, initial version
+# About Juncture
+
+Juncture is a set of services and web components designed to work with GitHub and Markdown to easily create interactive web pages/sites.
+
+**Juncture components**
+
+- Image and map viewers
+- Audio and video players
+- Header and footers
+- IFrame for embedding external resources
+- More…
+
+**Juncture tools/ and services**
+
+- Web editor with preview and drag-drop support for images and multimedia
+- IIIF image server with automatic IIIF image creation
+- Juncture-enabled web server for exploration and sharing
+- GitHub template for easily creating websites with support for custom domains
+- A semantic search tool for locating images and documents for use in visual essay development
+
+## Viewing a Juncture essay
+
+Any Markdown file hosted in Github can be viewed as a Juncture visual essay.  All that is needed is to point the Juncture server to the file.
+
+> [https://juncture-digital.org](https://v3juncture-digital.org) + `Github username` + `Github repository name` + `Optional repository file path`
+
+For example, 
+
+- to render this file as a Juncture visual essay - [https://v3.juncture-digital.org/rsnyder/juncture-about](https://juncture-digital.org/rsnyder/juncture-about)
+- to render an example file in this repository - [https://ve.juncture-digital.org/rsnyder/juncture-about/examples/monument-valley](https://juncture-digital.org/rsnyder/juncture-about/examples/monument-valley)
+
+## Juncture History
+
+### Initial version
 
 The [Plant Humanities Lab](https://lab.plant-humanities.org) is a web site hosting visual essays that "Explore the cultural histories of plants and their influence on human societies".  The Plant Humanities Lab was launched in 2021 as a key output of 2 Mellon funded projects jointly conducted by Dumbarton Oaks and JSTOR Labs.
 
@@ -8,26 +41,19 @@ The infrastructure for the Plant Humanities Lab enables non-programmers to gener
 
 A generalized version of the visual essay rendering code developed for the Plant Humanities Lab was released at the conclusion of the development projects as [Juncture](https://juncture-digital.org)
 
-## What is Juncture exactly?
+#### Recent versions
 
-In simplest terms, Juncture is a Markdown rendering engine that understands how to interpret and render a few special tags to create interactive viewers.
+Following the release of Juncture in Fall 2021, Juncture continued to evolve and addressed some of the lessons learned in developing and using the first version.
 
-Juncture also provides a few optional companion services
+- Improved flexibility in page layouts, including better rendering on mobile devices
+- Enhanced IIIF support, including new capabilities for creating and using self-hosted image collections in Github
+- Authoring tools for easier editing
+    - Preview from editor
+    - Drag-and-drop for images and videos with automatic tag creation
+- Improved on-line documentation with drag-and-drop and cut-paste code snippets
+- Viewer components reimplemented as standard HTML5 Web Components enabling use outside of Juncture environments, including in vanilla HTML pages and Wordpress
 
-- IIIF services for dynamic rendering of high-resolution images when IIIF versions of an image are not provided by an image provider
-- A semantic search tool for locating images and documents for use in visual essay development
-- A web-based authoring environment
-
-## Viewing a Juncture essay
-
-Any Markdown file in Github can be viewed as a Juncture visual essay.  All that is needed is to point the Juncture rendering engine to the file.
-
-> [https://juncture-digital.org](https://juncture-digital.org) + `Github username` + `Github repository name` + `Optional repository file path`
-
-For example, 
-
-- to render this file as a Juncture visual essay - [https://juncture-digital.org/rsnyder/juncture-about](https://juncture-digital.org/rsnyder/juncture-about)
-- to render an example file in this repository - [https://juncture-digital.org/rsnyder/juncture-about/examples/monument-valley](https://juncture-digital.org/rsnyder/juncture-about/examples/monument-valley)
+The Juncture web site is located at https://juncture-digital.org.  A beta site for the 3rd generation of Juncture is located at https://v3.juncture-digital.org.  This version will be released before the end of 2024 and is generally recommended for use.
 
 ## Key technologies used in Juncture
 
@@ -79,7 +105,7 @@ The features include points (addresses and locations), line strings (streets, hi
 
 # Juncture, recent versions
 
-Following the release of Juncture in Fall 2021, a next-gen version was developed to address some of the lessons learned in developing and using the first version.
+Following the release of Juncture in Fall 2021, Juncture continued to evolve and addressed some of the lessons learned in developing and using the first version.
 
 - Improved flexibility in page layouts, including better rendering on mobile devices
 - Enhanced IIIF support, including new capabilities for creating and using self-hosted image collections in Github
@@ -93,7 +119,7 @@ Following the release of Juncture in Fall 2021, a next-gen version was developed
 
 The Plant Humanities Lab release in 2021 was accompanied with a search tool for finding images and journal articles, and presenting data extracted from the Wikidata knowledge graph.  The tool was at an alpha level of completeness and quality but showed much promise.
 
-An updated version of the tool is currently under development with completion expected by the end of the year.  An in-process version of the tool can seen at [https://search.plant-humanities.org](https://search.plant-humanities.org).
+An updated version of the tool is currently under development.  An in-process version of the tool can seen at [https://search.plant-humanities.org](https://search.plant-humanities.org).
 
 Improvements in this next version of the tool (will) include:
 
@@ -114,14 +140,12 @@ Improvements in this next version of the tool (will) include:
 - [Biodiversity Stories](https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/) - Site developed by Katherine Enright, a participant in a Dumbarton Oaks summer program
 - [Edison Papers Exhibit Site](https://www.juncture-digital.org/edisonpapers/Latimer)
 - [DigitalPeni](https://digitalpeni.org/)
-- [University of Colorado](https://da4asandbox.github.io/modules/historicizing-data/)
 - [Print & Probability](http://bookhistory.rocks/)
 
 ## Demo essays
 
-- [Juncture V2](demo/amalfi-coast)
-- [Juncture V1](demo/amalfi-coast-j1)
-- [Plain HTML](https://rsnyder.github.io/uva-demo/demo/amalfi-coast-html)
+- [Monument Valley](https://juncture-digital.github.io/examples/monument-valley)
+- [Amalfi Coast](https://juncture-digital.github.io/examples/amalfi-coast)
 
 # For more info...
 
