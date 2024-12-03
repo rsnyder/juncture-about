@@ -8,6 +8,8 @@ GitHub is a free web service that provides file and web hosting, Markdown file e
 
 Juncture components can be easily added to any Markdown text to create interactive and engaging web pages.
 
+##
+
 `image wc:Incense_in_Vietnam.jpg right`
 
 Commonly used Juncture components include an IIIF-enabled image viewer.
