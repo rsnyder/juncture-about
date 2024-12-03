@@ -2,9 +2,17 @@
 
 # About Juncture
 
-Juncture is a set of services and web components designed to work with GitHub and Markdown to easily create interactive web pages/sites.
+Juncture is a set of services and web components designed to work with GitHub and Markdown to easily create interactive web pages/sites.  
 
-`iframe https://docs.google.com/presentation/d/e/2PACX-1vSBjr3JfRBWA8JZK1ikzzBgljziFBziqKIZFSyJ-I1N5IhV4wkN0COt7G9IGYM5rf75VBuStVgZGNkv/embed?start=false&loop=false&delayms=3000 frameborder="0" width="960" height="569" allowfullscreen mozallowfullscreen webkitallowfullscreen`
+GitHub is a free web service that provides file and web hosting, Markdown file editing, and powerful tools for collaboration and workflow management.  Markdown is a simple markup language commonly used for formatting plain text.
+
+Juncture components can be easily added to any Markdown text to create interactive and engaging web pages.
+
+`image wc:Incense_in_Vietnam.jpg right`
+
+Commonly used Juncture components include an IIIF-enabled image viewer.
+
+##
 
 **Juncture components**
 
@@ -26,12 +34,12 @@ Juncture is a set of services and web components designed to work with GitHub an
 
 Any Markdown file hosted in Github can be viewed as a Juncture visual essay.  All that is needed is to point the Juncture server to the file.
 
-> [https://juncture-digital.org](https://v3juncture-digital.org) + `Github username` + `Github repository name` + `Optional repository file path`
+> [https://v3.juncture-digital.org](https://v3juncture-digital.org) + `Github username` + `Github repository name` + `Optional repository file path`
 
 For example, 
 
 - to render this file as a Juncture visual essay - [https://v3.juncture-digital.org/rsnyder/juncture-about](https://juncture-digital.org/rsnyder/juncture-about)
-- to render an example file in this repository - [https://ve.juncture-digital.org/rsnyder/juncture-about/examples/monument-valley](https://juncture-digital.org/rsnyder/juncture-about/examples/monument-valley)
+- to render an example file in this repository - [https://v3.juncture-digital.org/rsnyder/juncture-about/examples/monument-valley](https://juncture-digital.org/rsnyder/juncture-about/examples/monument-valley)
 
 ## Juncture History
 
@@ -41,7 +49,7 @@ The [Plant Humanities Lab](https://lab.plant-humanities.org) is a web site hosti
 
 The infrastructure for the Plant Humanities Lab enables non-programmers to generate a single visual essay or a rich web site consisting of multiple interactive visual essays.
 
-A generalized version of the visual essay rendering code developed for the Plant Humanities Lab was released at the conclusion of the development projects as [Juncture](https://juncture-digital.org)
+A generalized version of the visual essay rendering code developed for the Plant Humanities Lab was released at the conclusion of the development projects as [Juncture](https://v3.juncture-digital.org)
 
 #### Recent versions
 
