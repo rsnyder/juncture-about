@@ -46,7 +46,7 @@ Any Markdown file hosted in Github can be viewed as a Juncture visual essay.  Al
 For example, 
 
 - to render this file as a Juncture visual essay - [https://v3.juncture-digital.org/rsnyder/juncture-about](https://juncture-digital.org/rsnyder/juncture-about)
-- to render an example file in this repository - [https://v3.juncture-digital.org/rsnyder/juncture-about/examples/monument-valley](https://juncture-digital.org/rsnyder/juncture-about/examples/monument-valley)
+- to render an example file in this repository - [https://v3.juncture-digital.org/rsnyder/juncture-about/examples/monument-valley](https://v3.juncture-digital.org/rsnyder/juncture-about/examples/monument-valley)
 
 ## Juncture History
 
