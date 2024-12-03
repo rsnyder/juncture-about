@@ -18,6 +18,18 @@ Interactive features like [zoomto image region](zoomto/3312,261,1359,907) are pr
 
 Metadata is linked to the image provding owner attribution, licensing and reuse rights, descriptions, and other useful information.
 
+Juncture supports the authoring and viewing of scholarly content with support for
+- Footnotes
+- Image attribution
+- Image and essay annotation
+- PDF generation
+
+Juncture is based on open technologies and resources, including
+- The IIIF (International Image Interoperability Framework) and OpenSeadragon for images
+- Leaflet and GeoJSON for maps and map overlays
+- Wikidata knowledge graph
+- Wikimedia Commons
+
 ##
 `.columns`
 
@@ -27,7 +39,8 @@ Metadata is linked to the image provding owner attribution, licensing and reuse 
 - [Audio](https://v3.juncture-digital.org/#/docs/components/audio-player) and [video](https://v3.juncture-digital.org/#/docs/components/video-player) players
 - [Header](https://v3.juncture-digital.org/#/docs/components/header) and [footer](https://v3.juncture-digital.org/#/docs/components/footer) 
 - An [IFrame viewer](https://v3.juncture-digital.org/#/docs/components/iframe-viewer) for embedding external resources
-- More…
+- Support for [Mermaid](https://v3.juncture-digital.org/#/docs/components/mermaid-diagram-viewer) and [Vis.js](https://v3.juncture-digital.org/#/docs/components/visjs-diagram-viewer) diagrams
+- And much more…
 
 ### Juncture tools/ and services
 
@@ -66,7 +79,7 @@ A generalized version of the visual essay rendering code developed for the Plant
 
 Following the release of Juncture in Fall 2021, Juncture continued to evolve and addressed some of the lessons learned in developing and using the first version.
 
-- Improved flexibility in page layouts, including better rendering on mobile devices
+- Improved flexibility in page layouts, including better accessibnility and rendering on mobile devices
 - Enhanced IIIF support, including new capabilities for creating and using self-hosted image collections in Github
 - Authoring tools for easier editing
     - Preview from editor
