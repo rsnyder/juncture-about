@@ -1,7 +1,6 @@
 [![](https://v3.juncture-digital.org/badge.png)](https://v3.juncture-digital.org)
 
-This formation is named because its shape resembles a mitten, with an extended "thumb" on one side.Similar in shape to West Mitten Butte, this formation is its counterpart, creating a mirrored mitten-like appearance.Merrick ButteThis butte is broader and less "mitten-like" compared to the other two. It is named after gold prospector Thomas Merrick, who explored the area.[![](https://v3.juncture-digital.org/badge.png)](https://v3.juncture-digital.org)
-
+This formation is named because its shape resembles a mitten, with an extended "thumb" on one side.Similar in shape to West Mitten Butte, this formation is its counterpart, creating a mirrored mitten-like appearance.Merrick ButteThis butte is broader and less "mitten-like" compared to the other two. It is named after gold prospector Thomas Merrick, who explored the area.
 `header "Monument Valley" wc:Monument_Valley_banner.jpg height=100 alpha=0`
 
 # Monument Valley
