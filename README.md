@@ -48,6 +48,10 @@ For example,
 - to render this file as a Juncture visual essay - [https://v3.juncture-digital.org/rsnyder/juncture-about](https://juncture-digital.org/rsnyder/juncture-about)
 - to render an example file in this repository - [https://v3.juncture-digital.org/rsnyder/juncture-about/examples/monument-valley](https://v3.juncture-digital.org/rsnyder/juncture-about/examples/monument-valley)
 
+## Creating a Juncture Website
+
+The Juncture server provides a convenient way for exploring Juncture and sharing visual essays.  Using the Juncture server any Markdown file can be easily viewed as a Juncture essay.  For users that want to create a full-featured web site (with an optional custom domain) from Juncture-enabled Markdown files a GitHub template is provided to quickly get a site up and running.  The [GitHub Setup Guide](https://v3.juncture-digital.org/#/docs/getting-started?id=github-setup) on the Juncture site provides a simple 2-step process for activating a Juncture web site in less than 2 minutes.
+
 ## Juncture History
 
 ### Initial version
