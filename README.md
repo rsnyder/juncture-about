@@ -12,6 +12,12 @@ Juncture components can be easily added to any Markdown text to create interacti
 
 Commonly used Juncture components include an IIIF-enabled image viewer.
 
+The IIIF image viewer supports panning and zooming on high resolution images.  Images may also be viewed in full screen mode.
+
+Interactive features like [zoomto image region](zoomto/3312,261,1359,907) are provided for connecting the narrative with the viewer.  Image annotations are also supported.
+
+Metadata is linked to the image provding owner attribution, licensing and reuse rights, descriptions, and other useful information.
+
 ##
 
 **Juncture components**
@@ -100,8 +106,7 @@ New Github users may find the first couple episodes in the [Github for Poets](ht
 
 ### Leaflet
 
-.ve-map Q213439 14 right
-    - Q213439
+`map Q201492,12 marker right`
 
 [Leaflet](https://leafletjs.com/) is an open source JavaScript library used to build web mapping applications. First released in 2011, it supports most mobile and desktop platforms, supporting HTML5 and CSS3. Among its users are FourSquare, Pinterest and Flickr.
 
