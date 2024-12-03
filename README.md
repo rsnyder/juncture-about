@@ -165,14 +165,11 @@ The features include points (addresses and locations), line strings (streets, hi
 
 2. **What level of technical expertise is required to setup and run a Juncture site?**
 
-	Some familiarity with GitHub and Markdown is required to get started with a basic website.
-	More elaborate websites with interactive maps, entity popovers, and such may require some additional familiarity with GeoJSON, Wikidata, and other technologies
+	Some familiarity with GitHub and Markdown is needed to get started with a basic website.
+	More elaborate websites with interactive maps, entity popovers, and such may require some additional familiarity with GeoJSON, Wikidata, and other technologies.
 
 	*Programming skills are not needed to setup and maintain a Juncture site.*
 
 # For more info...
 
-Contact me at:
-
-- [https://github.com/rsnyder](https://github.com/rsnyder)
-- ron@snyderjr.com
+Contact me via [email](mailto:ron@snyderjr.com)
