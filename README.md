@@ -4,6 +4,8 @@
 
 Juncture is a set of services and web components designed to work with GitHub and Markdown to easily create interactive web pages/sites.
 
+`iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBjr3JfRBWA8JZK1ikzzBgljziFBziqKIZFSyJ-I1N5IhV4wkN0COt7G9IGYM5rf75VBuStVgZGNkv/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen mozallowfullscreen webkitallowfullscreen`
+
 **Juncture components**
 
 - Image and map viewers
