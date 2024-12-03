@@ -101,7 +101,7 @@ A guiding principle in the development of the Plant Humanities Lab (and the subs
 
 As of 2023, GitHub reported having over 100 million developers and more than 372 million repositories, including at least 28 million public repositories. It is the world's largest source code host as of June 2023.
 
-Github features incclude,
+Github features include,
 
 - File storage (Markdown, images, annotations, etc)
 - A rich API for programmatic interaction with repository contents
