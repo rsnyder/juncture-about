@@ -12,7 +12,7 @@ Juncture components can be easily added to any Markdown text to create interacti
 
 Commonly used Juncture components include an IIIF-enabled image viewer.
 
-The IIIF image viewer supports panning and zooming on high resolution images.  Images may also be viewed in full screen mode.
+Juncture's IIIF ([International Image Interoperability Framework](https://iiif.io)) compatible image viewer supports panning and zooming of high resolution images.  Images may also be viewed in full screen mode.
 
 Interactive features like [zoomto image region](zoomto/3312,261,1359,907) are provided for connecting the narrative with the viewer.  Image annotations are also supported.
 
@@ -23,10 +23,10 @@ Metadata is linked to the image provding owner attribution, licensing and reuse 
 
 ### Juncture components
 
-- Image and map viewers
-- Audio and video players
-- Header and footers
-- IFrame for embedding external resources
+- [Image](https://v3.juncture-digital.org/#/docs/components/image-viewer) and [map](https://v3.juncture-digital.org/#/docs/components/map-viewer) viewers
+- [Audio](https://v3.juncture-digital.org/#/docs/components/audio-player) and [video](https://v3.juncture-digital.org/#/docs/components/video-player) players
+- [Header](https://v3.juncture-digital.org/#/docs/components/header) and [footer](https://v3.juncture-digital.org/#/docs/components/footer) 
+- An [IFrame viewer](https://v3.juncture-digital.org/#/docs/components/iframe-viewer) for embedding external resources
 - More…
 
 ### Juncture tools/ and services
@@ -34,12 +34,12 @@ Metadata is linked to the image provding owner attribution, licensing and reuse 
 - Web editor with preview and drag-drop support for images and multimedia
 - IIIF image server with automatic IIIF image creation
 - Juncture-enabled web server for exploration and sharing
-- GitHub template for easily creating websites with support for custom domains
+- A [GitHub template](https://github.com/juncture-digital/template) for easily creating websites with support for custom domains
 - A semantic search tool for locating images and documents for use in visual essay development
 
 ## Viewing a Juncture essay
 
-Any Markdown file hosted in Github can be viewed as a Juncture visual essay.  All that is needed is to point the Juncture server to the file.
+Any Markdown file hosted in Github can be viewed as a Juncture visual essay.  All that is needed is to point the Juncture server to the Markdown file.
 
 > [https://v3.juncture-digital.org](https://v3juncture-digital.org) + `Github username` + `Github repository name` + `Optional repository file path`
 
