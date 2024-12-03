@@ -20,6 +20,8 @@ Interactive features like [zoomto image region](zoomto/3312,261,1359,907) are pr
 
 Metadata is linked to the image provding owner attribution, licensing and reuse rights, descriptions, and other useful information.
 
+##
+
 Juncture supports the authoring and viewing of scholarly content with support for
 - Footnotes
 - Image attribution
