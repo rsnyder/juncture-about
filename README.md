@@ -63,7 +63,7 @@ A guiding principle in the development of the Plant Humanities Lab (and the subs
 
 [GitHub](https://www.github.com), Inc. is a platform and cloud-based service commonly used for software development and version control.  It provides distributed version control plus access control, bug tracking, software feature requests, task management, continuous integration, and project wikis.  Github has been a subsidiary of Microsoft since 2018.
 
-As of January 2023, GitHub reported having over 100 million developers and more than 372 million repositories, including at least 28 million public repositories. It is the world's largest source code host as of June 2023.
+As of 2023, GitHub reported having over 100 million developers and more than 372 million repositories, including at least 28 million public repositories. It is the world's largest source code host as of June 2023.
 
 Github features incclude,
 
@@ -102,35 +102,6 @@ Leaflet allows developers without a GIS background to very easily display tiled 
 [GeoJSON](https://geojson.org/) is an open standard format designed for representing simple geographical features, along with their non-spatial attributes. It is based on the JSON format.
 
 The features include points (addresses and locations), line strings (streets, highways and boundaries), polygons (countries, provinces, tracts of land), and multi-part collections of these types.
-
-# Juncture, recent versions
-
-Following the release of Juncture in Fall 2021, Juncture continued to evolve and addressed some of the lessons learned in developing and using the first version.
-
-- Improved flexibility in page layouts, including better rendering on mobile devices
-- Enhanced IIIF support, including new capabilities for creating and using self-hosted image collections in Github
-- Authoring tools for easier editing
-    - Preview from editor
-    - Drag-and-drop for images and videos with automatic tag creation
-- Improved on-line documentation with drag-and-drop and cut-paste code snippets
-- Viewer components reimplemented as standard HTML5 Web Components enabling use outside of Juncture environments, including in vanilla HTML pages and Wordpress
-
-# Resource finder (aka, semantic search tool)
-
-The Plant Humanities Lab release in 2021 was accompanied with a search tool for finding images and journal articles, and presenting data extracted from the Wikidata knowledge graph.  The tool was at an alpha level of completeness and quality but showed much promise.
-
-An updated version of the tool is currently under development.  An in-process version of the tool can seen at [https://search.plant-humanities.org](https://search.plant-humanities.org).
-
-Improvements in this next version of the tool (will) include:
-
-- Simplified user interface
-- On-the-fly generation of IIIF manifests for images
-- Support for Juncture drag-and-drop viewer tagging in Juncture editor
-- Selecting and saving favorites
-- Crowd sourced entity tagging
-- Easier addition of new resource providers
-- Federated image and document searching with endless-scroll viewing
-- More options for filtering and sorting
 
 # Examples
 
