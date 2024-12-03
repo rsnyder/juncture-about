@@ -10,7 +10,7 @@ Juncture components can be easily added to any Markdown text to create interacti
 
 ##
 
-`image wc:Incense_in_Vietnam.jpg right`
+`image wc:Incense_in_Vietnam.jpg "Wikimedia Commons Picture of the Year - 2023" right`
 
 Commonly used Juncture components include an IIIF-enabled image viewer.
 
